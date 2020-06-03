@@ -1,2 +1,2 @@
 # 0la.github.io
-csc assignment
+my project
